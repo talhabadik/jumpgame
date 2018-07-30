@@ -1,0 +1,98 @@
+fileFormatVersion: 2
+guid: d021daf852565b54592d065ecab894d0
+timeCreated: 1470989181
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spike A_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spike A_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 270
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 87.5}
+        - {x: 89, y: 78.5}
+        - {x: 69, y: 87.5}
+        - {x: 62, y: 87.5}
+        - {x: 53, y: 55.5}
+        - {x: 36, y: 87.5}
+        - {x: 30, y: 87.5}
+        - {x: 26, y: 77.5}
+        - {x: 3, y: 87.5}
+        - {x: -1, y: 87.5}
+        - {x: -3, y: 84.5}
+        - {x: -12, y: 48.5}
+        - {x: -26, y: 83.5}
+        - {x: -28, y: 87.5}
+        - {x: -31, y: 87.5}
+        - {x: -33, y: 84.5}
+        - {x: -37, y: 66.5}
+        - {x: -42, y: 43.5}
+        - {x: -60, y: 87.5}
+        - {x: -67, y: 87.5}
+        - {x: -68, y: 82.5}
+        - {x: -78, y: 87.5}
+        - {x: -94, y: 87.5}
+        - {x: -99, y: 80.5}
+        - {x: -122, y: -40.5}
+        - {x: -122, y: -87.5}
+        - {x: 123, y: -87.5}
+        - {x: 123, y: -31.5}
+        - {x: 99, y: 87.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

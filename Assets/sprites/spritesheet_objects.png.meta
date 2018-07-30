@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: e7ceb0381d661444c95048ff33617128
+timeCreated: 1470913294
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_objects_1
+    21300002: spritesheet_objects_0
+    21300004: spritesheet_objects_2
+    21300006: spritesheet_objects_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet_objects_0
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 455
+        width: 165
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 50}
+        - {x: -82.5, y: 13}
+        - {x: -82.5, y: -50}
+        - {x: 82.5, y: -50}
+        - {x: 82.5, y: 11}
+        - {x: 8.5, y: 50}
+    - name: spritesheet_objects_2
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 425
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: spritesheet_objects_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 353
+        width: 164
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 50.5}
+        - {x: -82, y: 13.5}
+        - {x: -82, y: -50.5}
+        - {x: 82, y: -50.5}
+        - {x: 82, y: 14.5}
+        - {x: 7, y: 50.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

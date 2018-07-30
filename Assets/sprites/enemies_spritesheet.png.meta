@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 287d75cf2cd4047d188dd5aeb62990a3
+timeCreated: 1470988187
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemies_spritesheet_0
+    21300002: enemies_spritesheet_1
+    21300004: enemies_spritesheet_2
+    21300006: enemies_spritesheet_3
+    21300008: enemies_spritesheet_4
+    21300010: enemies_spritesheet_5
+    21300012: enemies_spritesheet_6
+    21300014: enemies_spritesheet_7
+    21300016: enemies_spritesheet_8
+    21300018: enemies_spritesheet_9
+    21300020: enemies_spritesheet_10
+    21300022: enemies_spritesheet_11
+    21300024: enemies_spritesheet_12
+    21300026: enemies_spritesheet_13
+    21300028: enemies_spritesheet_14
+    21300030: enemies_spritesheet_15
+    21300032: enemies_spritesheet_16
+    21300034: enemies_spritesheet_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemies_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemies_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 111
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -32, y: 14}
+        - {x: -33, y: 9}
+        - {x: -33, y: -15}
+        - {x: -28, y: -21}
+        - {x: 9, y: -21}
+        - {x: 33, y: -15}
+        - {x: 33, y: 10}
+        - {x: 1, y: 21}
+    - name: enemies_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 120
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 16.5}
+        - {x: -29.5, y: 3.5}
+        - {x: -29.5, y: -16.5}
+        - {x: 28.5, y: -16.5}
+        - {x: 29.5, y: -14.5}
+        - {x: 29.5, y: 9.5}
+        - {x: 27.5, y: 16.5}
+    - name: enemies_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 102
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -24.5}
+        - {x: -24.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: -23.5, y: 25.5}
+        - {x: -25.5, y: 23.5}
+    - name: enemies_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 7
+        width: 48
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 73}
+        - {x: -24, y: 68}
+        - {x: -24, y: -73}
+        - {x: 24, y: -73}
+        - {x: 24, y: 70}
+        - {x: 18, y: 73}
+    - name: enemies_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 18}
+        - {x: -36, y: 2}
+        - {x: -21, y: -18}
+        - {x: 24, y: -18}
+        - {x: 36, y: -6}
+        - {x: 36, y: 18}
+    - name: enemies_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 67
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 21.5}
+        - {x: -31, y: 16.5}
+        - {x: -31, y: -16.5}
+        - {x: -23, y: -21.5}
+        - {x: 5, y: -21.5}
+        - {x: 31, y: -14.5}
+        - {x: 31, y: 16.5}
+        - {x: 12, y: 21.5}
+    - name: enemies_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 88
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemies_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 21}
+        - {x: -33, y: -21}
+        - {x: 17, y: -21}
+        - {x: 33, y: -14}
+        - {x: 33, y: 21}
+    - name: enemies_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 35
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemies_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 36
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -24.5}
+        - {x: -24.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: -23.5, y: 25.5}
+        - {x: -25.5, y: 23.5}
+    - name: enemies_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 36
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -24.5}
+        - {x: -24.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+        - {x: -23.5, y: 25.5}
+        - {x: -25.5, y: 23.5}
+    - name: enemies_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemies_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemies_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemies_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemies_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemies_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 102
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25.5}
+        - {x: -24, y: 16.5}
+        - {x: -24, y: -25.5}
+        - {x: 24, y: -25.5}
+        - {x: 24, y: 16.5}
+        - {x: 16, y: 25.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
